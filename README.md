@@ -8,6 +8,7 @@ new n - Creates a new n * n grid, where n need to be at least four and even. If 
 <br />
 play r c - Plays a piece at row r, column c of the colour corresponding to the player who’s move it is. Black plays first.
 <br />
+<br />
 Note: In this version of Reversi, there is no restraint on where you can place your piece, as long as it's unoccupied. After each move, the board is displayed on both the graphical window and the command line.
 <br />
 <br />
