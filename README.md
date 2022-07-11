@@ -4,6 +4,8 @@ A multiplayer Reversi game written using C++ and XWindow (for graphic display). 
 <br />
 Instructions: 
 <br />
+./reversi - Starts the game.
+<br />
 new n - Creates a new n * n grid, where n needs to be at least four and even. If there was already an active grid, that grid is destroyed and replaced with the new one.
 <br />
 play r c - Plays a piece at row r, column c of the colour corresponding to the player who’s move it is. Black plays first.
