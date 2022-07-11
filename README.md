@@ -1,5 +1,5 @@
 # Reversi
-A multiplayer Reversi game written using C++ and XWindow (for graphic display). The rules of the game are implemented using the observer software design pattern. Only the header files along with the executable are displayed here due to regulation policies, and implementaion code can be provided upon request.
+A multiplayer Reversi game developed in C++ using the observer software design pattern and XWindow (X11) GUI (for graphic display). Only the header files along with the executable are displayed here due to regulation policies, and implementaion code can be provided upon request.
 <br />
 <br />
 Instructions: 
